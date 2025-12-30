@@ -103,10 +103,9 @@ pip install -r requirements.txt
 
 ### 2. Run Notebooks (Recommended Order)
 
-1. `notebooks/preprocessing.ipynb`
-2. `notebooks/simplification.ipynb`
-3. `notebooks/summarization.ipynb`
-4. `notebooks/evaluation.ipynb`
+1. `notebooks/simplification.ipynb`
+2. `notebooks/summarization.ipynb`
+3. `notebooks/faithfulness.ipynb`
 
 Each notebook is self-contained and documented.
 ---
